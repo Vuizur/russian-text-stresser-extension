@@ -21,4 +21,5 @@ This is a Chrome extension for stressing Russian websites using a locally runnin
 Have fun!
 
 ### TODO:
-Create a font blacklist and automatically replace fonts that don't properly support combining diacritics
+* Create a font blacklist and automatically replace fonts that don't properly support combining diacritics
+* Try to add to chrome web store if possible
