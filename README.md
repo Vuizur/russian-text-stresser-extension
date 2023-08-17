@@ -10,13 +10,14 @@ This is a Chrome extension for stressing Russian websites using a locally runnin
 4. Check the "Developer mode" checkbox on the top right
 5. Click on the "Load unpacked" option on the extension page
 6. Select the unpacked folder
-7. For Windows
-   1. Download the Russian-Text-Stresser program: https://github.com/Vuizur/add-stress-to-epub/releases
-   2. Unpack the program
-   3. Execute "#Chrome extension server.exe"
-   For other Systems:
-   1. You need to clone https://github.com/Vuizur/add-stress-to-epub and execute app.py after installing dependencies with poetry
-8. Visit any website with Russian text such as lenta.ru and visit how the stress marks are added
+#### For Windows
+1. Download the Russian-Text-Stresser program: https://github.com/Vuizur/add-stress-to-epub/releases
+2. Unpack the program
+3. Execute "#Chrome extension server.exe"
+#### For other Systems:
+1. You need to clone https://github.com/Vuizur/add-stress-to-epub and execute app.py after installing dependencies with poetry
+
+Finally, visit any website with Russian text such as lenta.ru and visit how the stress marks are added
 
 Have fun!
 
