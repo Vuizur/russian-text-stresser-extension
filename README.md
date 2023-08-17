@@ -17,7 +17,7 @@ This is a Chrome extension for stressing Russian websites using a locally runnin
 #### For other Systems:
 1. You need to clone https://github.com/Vuizur/add-stress-to-epub and execute app.py after installing dependencies with poetry
 
-Finally, visit any website with Russian text such as lenta.ru and visit how the stress marks are added
+Finally, visit any website with Russian text such as lenta.ru and see how stress marks are automatically added.
 
 Have fun!
 
